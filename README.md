@@ -4,6 +4,8 @@
 
 This repository is a walkthroug hof adding some basic and advanced additions to a shopping website, each branch will have a youtube video that I have made to help you understand the changes made to the code. 
 
+YOUTUBE PLAYLIST: https://www.youtube.com/playlist?list=PLEedOAecWEiCxzYl-alwvajhvLsp55Ars
+
 ## Prerequisites
 
 - You must have Node installed. visit https://byui-cit.github.io/advcss/lesson01/l01-software.html and skip to the Node section for instructions
