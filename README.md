@@ -7,6 +7,7 @@ This repository is a walkthroug hof adding some basic and advanced additions to 
 YOUTUBE PLAYLIST: https://www.youtube.com/playlist?list=PLEedOAecWEiCxzYl-alwvajhvLsp55Ars
 
 ## Prerequisites
+- fork this repository for a good starting point https://github.com/matkat99/sleepoutside 
 
 - You must have Node installed. visit https://byui-cit.github.io/advcss/lesson01/l01-software.html and skip to the Node section for instructions
 
