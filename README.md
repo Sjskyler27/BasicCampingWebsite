@@ -2,7 +2,7 @@
 
 ## Description
 
-Use this as a starting point to complete the WDD 330 team activity: the SleepOutside web application. It scaffolds out a simple web app with Vite support to bundle up our assets.
+This repository is a walkthroug hof adding some basic and advanced additions to a shopping website, each branch will have a youtube video that I have made to help you understand the changes made to the code. 
 
 ## Prerequisites
 
